@@ -7,10 +7,10 @@
 
   <br/><br/>
 
-  <h3>✦ Languages and Tools ✦</h3>
+  <h3>Languages and Tools</h3>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mysql,sqlserver,git,linux&theme=dark" alt="Backend & Tools" />
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,mysql,git,linux&theme=dark" alt="Backend & Tools" />
     <br/>
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,postman,selenium,figma&theme=dark" alt="Frontend & Tools" />
   </p>
